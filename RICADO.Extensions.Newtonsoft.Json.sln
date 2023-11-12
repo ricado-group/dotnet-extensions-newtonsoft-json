@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RICADO.Extensions.Newtonsoft.Json", "RICADO.Extensions.Newtonsoft.Json\RICADO.Extensions.Newtonsoft.Json.csproj", "{DCE1D528-C112-4B43-B022-7535D31E9187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE1D528-C112-4B43-B022-7535D31E9187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE1D528-C112-4B43-B022-7535D31E9187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE1D528-C112-4B43-B022-7535D31E9187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE1D528-C112-4B43-B022-7535D31E9187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593E0460-C3CD-4A8F-8AF1-47E6D6395D4B}
+	EndGlobalSection
+EndGlobal
