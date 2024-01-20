@@ -1,11 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net7.0;net6.0</TargetFrameworks>
+    <TargetFrameworks>net8.0;net7.0;net6.0</TargetFrameworks>
     <Authors>RICADO</Authors>
     <Company>RICADO Limited</Company>
-    <Description>A collection of useful Extensions for Newtonsoft.Json on .NET 6/7</Description>
-    <Copyright>Copyright © RICADO Limited 2009 - 2023</Copyright>
+    <Description>A collection of useful Extensions for Newtonsoft.Json on .NET 6+</Description>
+    <Copyright>Copyright © RICADO Limited 2009 - 2024</Copyright>
     <RepositoryUrl>https://github.com/ricado-group/dotnet-extensions-newtonsoft-json</RepositoryUrl>
     <PackageIcon>packageIcon.png</PackageIcon>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
